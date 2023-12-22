@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "music api/1.0.0": {
+      "music_api/1.0.0": {
         "dependencies": {
           "DotNetEnv": "2.5.0",
           "Microsoft.AspNetCore.OpenApi": "7.0.5",
@@ -17,7 +17,7 @@
           "secJson-jwt": "0.1.2"
         },
         "runtime": {
-          "music api.dll": {}
+          "music_api.dll": {}
         }
       },
       "AWSSDK.Core/3.7.100.14": {
@@ -994,7 +994,7 @@
     }
   },
   "libraries": {
-    "music api/1.0.0": {
+    "music_api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
